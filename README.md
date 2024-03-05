@@ -3,7 +3,7 @@
 
 Подробное описание проекта, в т.ч. подробный разбор проведенного feature engineering, в файле pdf
 
-Хранилище проекта: https://drive.google.com/drive/folders/1u4_Gk39HOd1hbwPeS3PvYdKVriOJiSVh?usp=sharing
+Данные для проекта: https://drive.google.com/drive/folders/1u4_Gk39HOd1hbwPeS3PvYdKVriOJiSVh?usp=sharing
 
 RawDatasetPreparation: предварительная сборка датасета из сырых данных
 
